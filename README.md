@@ -82,6 +82,7 @@ Cette version alpha inclut :
 - `time` : Module standard Python
 
 ## 📄 Licence
+- MIT
 
 Ce projet est en développement actif. Version alpha - NumWorks 1.
 
