@@ -1,6 +1,6 @@
 # ATO - Version Alpha NumWorks 1
 
-> ⚠️ **Attention !** Ce jeu sera publié dans sa version finale uniquement et est sous licence MIT.
+> ⚠️ **Attention !** Ce jeu sera publié dans sa version finale uniquement et est sous licence propriétaire (tous droits réservés).
 
 Un jeu d'aventure 2D développé pour la calculatrice NumWorks avec un éditeur de niveaux intégré.
 
@@ -82,7 +82,14 @@ Cette version alpha inclut :
 - `time` : Module standard Python
 
 ## 📄 Licence
-- MIT
+
+Licence propriétaire - Tous droits réservés. Voir le fichier `LICENSE` pour plus de détails.
+
+**Restrictions principales :**
+- Utilisation personnelle uniquement
+- Modification interdite
+- Redistribution interdite
+- Utilisation commerciale interdite
 
 Ce projet est en développement actif. Version alpha - NumWorks 1.
 
